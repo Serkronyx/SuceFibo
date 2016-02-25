@@ -1,0 +1,6 @@
+c:\users\sergio\documents\visual studio 2012\Projects\sucFibo\sucFibo\bin\Debug\sucFibo.exe.config
+c:\users\sergio\documents\visual studio 2012\Projects\sucFibo\sucFibo\bin\Debug\sucFibo.exe
+c:\users\sergio\documents\visual studio 2012\Projects\sucFibo\sucFibo\bin\Debug\sucFibo.pdb
+c:\users\sergio\documents\visual studio 2012\Projects\sucFibo\sucFibo\obj\Debug\sucFibo.csprojResolveAssemblyReference.cache
+c:\users\sergio\documents\visual studio 2012\Projects\sucFibo\sucFibo\obj\Debug\sucFibo.exe
+c:\users\sergio\documents\visual studio 2012\Projects\sucFibo\sucFibo\obj\Debug\sucFibo.pdb
